@@ -13,7 +13,7 @@ CODESYS + Factory I/O simulation of a two-story palletizer that sequences convey
 - Race condition diagnosed and fixed using dedicated INT elevator_state variable
 
 ## Demo
-[YouTube Demo](link here)
+[YouTube Demo](https://youtu.be/uOj7-TnxfHA?si=FeeYypzgNRzz0JOq)
 
 ## Tools
 - CODESYS 3.5
